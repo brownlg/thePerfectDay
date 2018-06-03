@@ -42,8 +42,14 @@ public class WastedViewModel extends AndroidViewModel {
         userTables myDataRow = mRepository.getDataByDate(dataRow.date);
 
         if (myDataRow != null) {
-            myDataRow.hours += time;
-            mRepository.update(myDataRow);
+            float newTime = myDataRow.hours + time;
+
+            if ((newTime <= 24) && ((newTime >= 0))) {
+                myDataRow.hours = newTime;
+                mRepository.update(myDataRow);
+            }
+
+
         } else
         {
             // first entry for the day
