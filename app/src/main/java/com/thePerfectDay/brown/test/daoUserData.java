@@ -1,4 +1,4 @@
-package com.example.brown.test;
+package com.thePerfectDay.brown.test;
 
 import android.arch.lifecycle.LiveData;
 import android.arch.persistence.room.Dao;

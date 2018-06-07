@@ -1,19 +1,11 @@
-package com.example.brown.test;
+package com.thePerfectDay.brown.test;
 
 import android.app.Application;
 import android.arch.lifecycle.LiveData;
-import android.graphics.LightingColorFilter;
 import android.os.AsyncTask;
-import android.util.Log;
 
-import java.text.DateFormat;
-import java.text.SimpleDateFormat;
-import java.time.LocalDate;
-import java.time.ZoneId;
 import java.util.Calendar;
-import java.util.Date;
 import java.util.List;
-import java.util.Locale;
 
 /**
  * Created by brown on 4/21/2018.

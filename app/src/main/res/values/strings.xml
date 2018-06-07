@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Perfect Day</string>
+    <string name="introString">Don\'t waste your life. Every hour you spend on your phone, watching TV, etc.. you need to count:</string>
+    <string name="hint_word">Word...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+</resources>

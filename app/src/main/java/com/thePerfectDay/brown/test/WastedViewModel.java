@@ -1,4 +1,4 @@
-package com.example.brown.test;
+package com.thePerfectDay.brown.test;
 
 import android.app.Application;
 import android.arch.lifecycle.AndroidViewModel;

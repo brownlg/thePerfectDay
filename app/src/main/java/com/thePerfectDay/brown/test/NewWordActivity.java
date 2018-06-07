@@ -1,4 +1,4 @@
-package com.example.brown.test;
+package com.thePerfectDay.brown.test;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

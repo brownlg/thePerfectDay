@@ -1,9 +1,7 @@
-package com.example.brown.test;
+package com.thePerfectDay.brown.test;
 
 import com.github.mikephil.charting.components.AxisBase;
 import com.github.mikephil.charting.formatter.IAxisValueFormatter;
-
-import java.text.DecimalFormat;
 
 /**
  * Created by brown on 5/25/2018.
